@@ -9,7 +9,7 @@ This is an ongoing project, started in August 2025, that aims to automatically a
 **The Challenge:** The stock market is fast-paced and complex. Trying to analyze everything manually is time-consuming and can make you miss important trends.
 
 **My Solution:** This project solves that problem by creating a system that automates the entire process. It continuously learns and provides up-to-date market insights, helping users make faster, more data-driven decisions.
-<img src="Resources/img01.png" alt="Alt Text" width="800" height ="350"/>
+<img src="Resources/img01.png" alt="Alt Text" width="1000" height ="450"/>
 
 
 ### Introduction
