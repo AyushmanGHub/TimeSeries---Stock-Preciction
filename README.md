@@ -26,7 +26,7 @@ The system follows a simple process:
 3.  **Feature Engineering**: It creates smart, lag-based features from the historical data to make the predictions more accurate.
 4.  **Predictive Modeling**: Using powerful machine learning models like Random Forest and XGBoost, the system learns and improves its predictions as new data comes in.
 5.  **Visualization**: It generates interactive plots that let you see market trends in two ways: a broad overview and a detailed look at recent activity.
-6.  **Future Plans**: We are currently developing a Django or Streamlit app to show these real-time predictions and interactive plots in a user-friendly way.
+6.  **Future Plans**: I am planning to develop a Django or Streamlit app to show these real-time predictions and interactive plots in a user-friendly way.
 
 ---
 
