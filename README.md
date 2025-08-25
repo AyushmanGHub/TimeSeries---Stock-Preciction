@@ -1,4 +1,4 @@
-# Real-Time Indian Stock Market Analysis and Prediction
+# StockSeer – See market’s next move                            
 
 ### Abstract
 
